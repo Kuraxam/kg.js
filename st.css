@@ -1,0 +1,66 @@
+@font-face {
+font-family:'moza';
+src:url('moza.ttf');
+}
+
+nav{
+
+   
+    border-radius: 9px;
+background-color: black;
+text-decoration: none;
+
+text-align: center;
+
+}
+
+
+a{
+  
+font-size: 20px;
+
+    margin: 20px;
+
+    text-decoration: none;
+
+    color: aliceblue;
+
+font-family: moza;
+
+text-align: center;
+
+}
+
+
+
+p{
+
+
+ font-family: moza;   
+
+
+
+
+}
+
+
+.mnn{
+
+
+    font-family: moza;
+
+
+    color: black;
+
+
+}
+
+
+za{
+    border-radius: 9px;
+
+
+
+
+
+}
